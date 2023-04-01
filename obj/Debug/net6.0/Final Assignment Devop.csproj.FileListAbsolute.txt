@@ -1,0 +1,31 @@
+C:\Final Assignment Devop\bin\Debug\net6.0\appsettings.Development.json
+C:\Final Assignment Devop\bin\Debug\net6.0\appsettings.json
+C:\Final Assignment Devop\bin\Debug\net6.0\Final Assignment Devop.staticwebassets.runtime.json
+C:\Final Assignment Devop\bin\Debug\net6.0\Final Assignment Devop.exe
+C:\Final Assignment Devop\bin\Debug\net6.0\Final Assignment Devop.deps.json
+C:\Final Assignment Devop\bin\Debug\net6.0\Final Assignment Devop.runtimeconfig.json
+C:\Final Assignment Devop\bin\Debug\net6.0\Final Assignment Devop.dll
+C:\Final Assignment Devop\bin\Debug\net6.0\Final Assignment Devop.pdb
+C:\Final Assignment Devop\obj\Debug\net6.0\Final Assignment Devop.csproj.AssemblyReference.cache
+C:\Final Assignment Devop\obj\Debug\net6.0\Final Assignment Devop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Final Assignment Devop\obj\Debug\net6.0\Final Assignment Devop.AssemblyInfoInputs.cache
+C:\Final Assignment Devop\obj\Debug\net6.0\Final Assignment Devop.AssemblyInfo.cs
+C:\Final Assignment Devop\obj\Debug\net6.0\Final Assignment Devop.csproj.CoreCompileInputs.cache
+C:\Final Assignment Devop\obj\Debug\net6.0\Final Assignment Devop.MvcApplicationPartsAssemblyInfo.cache
+C:\Final Assignment Devop\obj\Debug\net6.0\Final Assignment Devop.RazorAssemblyInfo.cache
+C:\Final Assignment Devop\obj\Debug\net6.0\Final Assignment Devop.RazorAssemblyInfo.cs
+C:\Final Assignment Devop\obj\Debug\net6.0\staticwebassets\msbuild.Final Assignment Devop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Final Assignment Devop\obj\Debug\net6.0\staticwebassets\msbuild.build.Final Assignment Devop.props
+C:\Final Assignment Devop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Final Assignment Devop.props
+C:\Final Assignment Devop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Final Assignment Devop.props
+C:\Final Assignment Devop\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Final Assignment Devop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Final Assignment Devop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Final Assignment Devop\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Final Assignment Devop\obj\Debug\net6.0\scopedcss\bundle\Final Assignment Devop.styles.css
+C:\Final Assignment Devop\obj\Debug\net6.0\scopedcss\projectbundle\Final Assignment Devop.bundle.scp.css
+C:\Final Assignment Devop\obj\Debug\net6.0\Final Assignment Devop.dll
+C:\Final Assignment Devop\obj\Debug\net6.0\refint\Final Assignment Devop.dll
+C:\Final Assignment Devop\obj\Debug\net6.0\Final Assignment Devop.pdb
+C:\Final Assignment Devop\obj\Debug\net6.0\Final Assignment Devop.genruntimeconfig.cache
+C:\Final Assignment Devop\obj\Debug\net6.0\ref\Final Assignment Devop.dll
