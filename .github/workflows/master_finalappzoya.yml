@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'FinalAppZoya'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0C09D3ECEEC04F77AD344B4289E8C4C2 }}
+          publish-profile: ${{ secrets.ZOYA_SECRET }}
           package: .
